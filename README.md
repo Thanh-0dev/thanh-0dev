@@ -8,7 +8,6 @@ Front-End developer
 * 🖥️  See my portfolio at [thanhlongpham.com](http://www.thanhlongpham.com)
 * ✉️  You can contact me at [thanhlongpham@gmail.com](mailto:thanhlongpham@gmail.com)
 * 🧠  I'm learning React.js / Next.js
-* ⚡  Currently looking for a 3-month internship
 
 ### Skills
 
