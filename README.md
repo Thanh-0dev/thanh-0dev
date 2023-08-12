@@ -34,22 +34,22 @@ Front-End developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/reaslyn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/thanh-long-pham" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/thanh-0dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/thanh-long-pham" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/reaslyn"><img src="https://github-readme-stats.vercel.app/api?username=reaslyn&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="reaslyn's GitHub stats" /></a>
+<a href="http://www.github.com/thanh-0dev"><img src="https://github-readme-stats.vercel.app/api?username=thanh-0dev&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="thanh-0dev's GitHub stats" /></a>
 
-<a href="http://www.github.com/reaslyn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reaslyn&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/thanh-0dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thanh-0dev&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/reaslyn"><img src="https://activity-graph.herokuapp.com/graph?username=reaslyn&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/thanh-0dev"><img src="https://activity-graph.herokuapp.com/graph?username=thanh-0dev&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/reaslyn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaslyn&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/thanh-0dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-0dev&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
-<div width="100%" align="center"><a href="https://github.com/reaslyn/propeez" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=reaslyn&repo=propeez&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/ReaSlyn/Flavor-symphony" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=reaslyn&repo=Flavor-symphony&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/thanh-0dev/propeez" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thanh-0dev&repo=propeez&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/thanh-0dev/Flavor-symphony" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thanh-0dev&repo=Flavor-symphony&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/reaslyn/bt-portfolio2021" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=reaslyn&repo=bt-portfolio2021&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/reaslyn/Coordinate" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=reaslyn&repo=Coordinate&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br />
+<div width="100%" align="center"><a href="https://github.com/thanh-0dev/bt-portfolio2021" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thanh-0dev&repo=bt-portfolio2021&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/thanh-0dev/Coordinate" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thanh-0dev&repo=Coordinate&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br />
